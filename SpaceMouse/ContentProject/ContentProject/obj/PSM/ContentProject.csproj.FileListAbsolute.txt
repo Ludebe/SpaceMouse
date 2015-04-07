@@ -1,0 +1,4 @@
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\ContentProject\ContentProject\bin\PSM\IgnoreMe.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\ContentProject\ContentProject\obj\PSM\ContentProject.csprojResolveAssemblyReference.cache
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\ContentProject\ContentProject\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\ContentProject\ContentProject\obj\PSM\IgnoreMe.dll

@@ -1,0 +1,29 @@
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\obj\x86\Debug\SpaceMouse.csprojResolveAssemblyReference.cache
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SpaceMouse.exe
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SpaceMouse.pdb
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.xml
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\obj\x86\Debug\SpaceMouse.exe
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\obj\x86\Debug\SpaceMouse.pdb
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\Content\fade.png
+C:\Users\Ludebe\Documents\Visual Studio 2012\Projects\SpaceMouse\SpaceMouse\bin\Windows\Debug\Content\Fonts\MyFont.xnb
+C:\Users\Ludebe\Documents\GitHub\SpaceMouse\SpaceMouse\SpaceMouse\obj\x86\Debug\SpaceMouse.exe
+C:\Users\Ludebe\Documents\GitHub\SpaceMouse\SpaceMouse\SpaceMouse\obj\x86\Debug\SpaceMouse.pdb
